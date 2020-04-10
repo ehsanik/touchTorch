@@ -95,10 +95,11 @@ See `scripts/test_w_weights.sh` for additional scripts.
 
 If you find this project useful in your research, please consider citing:
 
+```
    @inproceedings{ehsani2020force,
      title={Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects},
       author={Ehsani, Kiana and Tulsiani, Shubham and Gupta, Saurabh and Farhadi, Ali and Gupta, Abhinav},
      booktitle={CVPR},
      year={2020}
    }
-   
+```
