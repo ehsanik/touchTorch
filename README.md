@@ -22,12 +22,16 @@ Our quantitative and qualitative results show that:
 ### Installation
 1. Install requirements:
 
-      pip3 install -r requirements.txt
+```
+pip3 install -r requirements.txt
+```
 
 2. Clone the repository using the command:
 
-      git clone https://github.com/ehsanik/touchTorch
-      cd touchTorch
+```
+git clone https://github.com/ehsanik/touchTorch
+cd touchTorch
+```
 
 3. Download the dataset from [here](#TODO) and extract it to DatasetForce.
 4. Download pretrained weights from [here](https://drive.google.com/file/d/149s4eUJn9owuXSm0Y5_5ffX5bGOCXTeh/view?usp=sharing) and extract it to "DatasetForce/trained_weights". 
