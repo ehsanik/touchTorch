@@ -1,0 +1,8 @@
+.vscode/
+data/
+__pycache__
+.DS_Store
+FPHA
+ycb
+.idea
+DatasetForce
