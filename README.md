@@ -2,7 +2,7 @@
 ## K Ehsani, S Tulsiani, S Gupta, A Farhadi, A Gupta
 This project is an oral presentation at CVPR2020.
 
-[(Project Page)](https://ehsanik.github.io/forcecvpr2020/) [(PDF)](https://arxiv.org/pdf/2003.12045.pdf) [(Slides)]() [(Video)](https://ehsanik.github.io/forcecvpr2020/index.html#qual_video)
+[(Project Page)](https://ehsanik.github.io/forcecvpr2020/) [(PDF)](https://arxiv.org/pdf/2003.12045.pdf) [(Slides)](https://github.com/ehsanik/forcecvpr2020/blob/master/img/3095-talk.pdf) [(Video)](https://ehsanik.github.io/forcecvpr2020/#slide_video)
 
 <center><img src="figs/teaser_force.jpg" height="300px" ></center>
 
