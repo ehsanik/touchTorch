@@ -33,8 +33,8 @@ git clone https://github.com/ehsanik/touchTorch
 cd touchTorch
 ```
 
-3. Download the dataset from [here](https://drive.google.com/file/d/11HxjPTHqjLncMSxOg7ERZWRzPNKst4Su/view?usp=sharing) and extract it to DatasetForce.
-4. Download pretrained weights from [here](https://drive.google.com/file/d/149s4eUJn9owuXSm0Y5_5ffX5bGOCXTeh/view?usp=sharing) and extract it to "DatasetForce/trained_weights". 
+3. Download the dataset from [here](https://drive.google.com/file/d/1fs-L0PSxHhY22Q-SBHG-bnmdUWTR90-c/view?usp=sharing) and extract it to DatasetForce.
+4. Download pretrained weights from [here](https://drive.google.com/file/d/1JNTkWJX0EmdzXx6A18A7lFq1tiDuLlgE/view?usp=sharing) and extract it to "DatasetForce/trained_weights". 
 
 
 ### Dataset
