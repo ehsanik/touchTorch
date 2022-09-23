@@ -7,7 +7,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 numpy==1.18.2
 Pillow==7.1.1
-protobuf==3.11.3
+protobuf==3.18.3
 pybullet==2.7.2
 pyglet==1.5.0
 pyparsing==2.4.7
