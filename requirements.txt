@@ -1,6 +1,6 @@
 cloudpickle==1.3.0
 cycler==0.10.0
-future==0.18.2
+future==0.18.3
 gym==0.17.1
 imageio==2.8.0
 kiwisolver==1.2.0
